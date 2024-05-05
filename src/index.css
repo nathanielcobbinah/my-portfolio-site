@@ -11,3 +11,63 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+
+
+/* Red dots animation */
+@keyframes moveDotRed {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(-20px, -10px); }
+  100% { transform: translate(0, 0); }
+}
+
+.animate-move-dot-red {
+  animation: moveDotRed 5s infinite linear alternate;
+}
+
+/* Blue dots animation */
+@keyframes moveDotBlue {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(15px, 15px); }
+  100% { transform: translate(0, 0); }
+}
+
+.animate-move-dot-blue {
+  animation: moveDotBlue 6s infinite linear alternate;
+}
+
+/* Green dots animation */
+@keyframes moveDotGreen {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(-20px, -30px); }
+  100% { transform: translate(0, 0); }
+}
+
+.animate-move-dot-green {
+  animation: moveDotGreen 7s infinite linear alternate;
+}
+
+
+/* Yellow dots animation */
+@keyframes moveDotYellow {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(-10px, -20px); }
+  100% { transform: translate(0, 0); }
+}
+
+.animate-move-dot-yellow {
+  animation: moveDotYellow 8s infinite linear alternate;
+}
+
+/* Purple dots animation */
+@keyframes moveDotPurple {
+  0% { transform: translate(0, 0); }
+  50% { transform: translate(20px, -30px); }
+  100% { transform: translate(0, 0); }
+}
+
+.animate-move-dot-purple {
+  animation: moveDotPurple 9s infinite linear alternate;
+}
