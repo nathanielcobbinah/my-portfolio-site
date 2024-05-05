@@ -30,7 +30,7 @@ function Hero() {
 
       <div className="container mx-auto flex flex-col-reverse md:flex-row items-center relative z-10">
         <div className="md:w-1/2 text-left mb-10 md:mb-0">
-          <Typewriter text="Hi, I'm Nathaniel de Escade" speed={100} />
+          <Typewriter text="Hi, I'm Nathaniel Cobbinah" speed={100} />
 
           <ScrollRevealText>
             <p className="text-lg md:text-xl text-gray-400 font-light leading-relaxed">Crafting <span className="font-semibold text-blue-900">exceptional digital experiences</span> just for you!</p>
@@ -63,5 +63,6 @@ function Hero() {
     </section>
   );
 }
+
 
 export default Hero;
