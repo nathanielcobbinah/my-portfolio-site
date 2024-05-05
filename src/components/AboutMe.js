@@ -43,7 +43,7 @@ function AboutMe() {
             <ScrollRevealText>
               <h2 className="text-3xl text-red-500 font-bold mb-4">About Me</h2>
               <p className="text-lg text-gray-600 mb-6">
-              Hi there, I'm Nathaniel de Escade, a passionate full stack web developer. Specializing in frontend technologies like JavaScript, React, and Vue.js, I focus on crafting beautiful and functional websites. With expertise in backend development using PHP and Laravel, I ensure seamless integration and top-notch performance. Experienced in WordPress, I deliver versatile solutions to suit diverse project needs. Let's create something exceptional together.              </p>
+              Hi there, I'm Nathaniel Cobbinah, a passionate full stack web developer. Specializing in frontend technologies like JavaScript, React, and Vue.js, I focus on crafting beautiful and functional websites. With expertise in backend development using PHP and Laravel, I ensure seamless integration and top-notch performance. Experienced in WordPress, I deliver versatile solutions to suit diverse project needs. Let's create something exceptional together.              </p>
               {/* Add Download Resume Button */}
               <button className="mt-4 bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded" onClick={handleDownloadResume}>
                 Download Resume
