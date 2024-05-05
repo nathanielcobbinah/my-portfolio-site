@@ -56,7 +56,7 @@ function Hero() {
         </div>
         <div className="md:w-1/2 text-center md:text-right -py-20">
           <ScrollRevealText>
-            <img src="/images/nat-preview.png" alt="Nathaniel de Escade" className="mx-auto md:mx-0 md:ml-auto max-w-full border-4 border-blue-900 p-2" />
+            <img src="/images/nat-preview.png" alt="Nathaniel Cobbinah" className="mx-auto md:mx-0 md:ml-auto max-w-full border-4 border-blue-900 p-2" />
           </ScrollRevealText>
         </div>
       </div>
