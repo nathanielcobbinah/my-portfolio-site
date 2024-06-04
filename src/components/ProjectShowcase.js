@@ -9,31 +9,31 @@ function ProjectShowcase() {
       image: '/images/blog.png',
       description: 'Responsive blog with user authentication built using HTML, PHP and Tailwind CSS.',
       projectLink: '#', 
-      codeLink: '#',
+      codeLink: 'https://github.com/nathanielcobbinah/Blog.git',
     },
     
     {
       title: 'Weather Forecaster App',
       image: '/images/weather.png',
       description: 'Weather app providing current conditions and 5-day forecast using React.js and Tailwind CSS.',
-      projectLink: '#', 
-      codeLink: '#',
+      projectLink: '', 
+      codeLink: 'https://github.com/nathanielcobbinah/weather-app.git',
     },
     
     {
       title: 'Word Scramble Game',
       image: '/images/word-scramble.png',
       description: 'Random word scramble game using JavaScript, HTML, and CSS with browser save feature.',
-      projectLink: '#', 
-      codeLink: '#',
+      projectLink: '', 
+      codeLink: 'https://github.com/nathanielcobbinah/word-scramble.git',
     },
     
     {
       title: 'Facebook UI',
       image: '/images/facebook.png',
       description: 'Responsive Facebook UI clone using HTML and CSS, responsive to all devices.',
-      projectLink: '#', 
-      codeLink: '#',
+      projectLink: '', 
+      codeLink: 'https://github.com/nathanielcobbinah/facebook-ui.git',
     },
     
     {
