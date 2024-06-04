@@ -18,19 +18,19 @@ function ProjectSlider() {
     <div className="h-full">
       <Slider {...settings}>
         <div>
-          <img src="/images/nat-preview.png" alt="Project 1" className="max-w-full h-auto" />
+          <img src="/images/nat-preview.png" alt="Project 1" className="max-w-full h-56" />
         </div>
         <div>
-          <img src="/images/nat-preview.png" alt="Project 2" className="max-w-full h-auto" />
+          <img src="/images/nat-preview.png" alt="Project 2" className="max-w-full h-56" />
         </div>
         <div>
-          <img src="/images/nat-preview.png" alt="Project 3" className="max-w-full h-auto" />
+          <img src="/images/nat-preview.png" alt="Project 3" className="max-w-full h-56" />
         </div>
         <div>
-          <img src="/images/nat-preview.png" alt="Project 4" className="max-w-full h-auto" />
+          <img src="/images/nat-preview.png" alt="Project 4" className="max-w-full h-56" />
         </div>
         <div>
-          <img src="/images/nat-preview.png" alt="Project 5" className="max-w-full h-auto" />
+          <img src="/images/nat-preview.png" alt="Project 5" className="max-w-full h-56" />
         </div>
       </Slider>
     </div>

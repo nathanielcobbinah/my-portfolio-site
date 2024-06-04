@@ -36,7 +36,6 @@ function Hero() {
             <p className="text-lg md:text-xl text-gray-400 font-light leading-relaxed">Crafting <span className="font-semibold text-blue-900">exceptional digital experiences</span> just for you!</p>
           </ScrollRevealText>
 
-          {/* Contact Button and Social Media Links */}
           <div className="flex mt-4 items-center">
             <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded mr-4">
               Contact Me

@@ -3,7 +3,6 @@
 import React from 'react';
 
 function Experience() {
-  // Define your work experience data
   const experiences = [
     {
       company: 'ABC Company',
@@ -24,7 +23,6 @@ function Experience() {
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold text-center mb-8">Experience</h2>
         <div className="grid gap-6">
-          {/* Render each experience */}
           {experiences.map((experience, index) => (
             <div key={index} className="bg-white shadow-md p-6 rounded-md">
               <h3 className="text-lg font-semibold mb-2">{experience.company}</h3>

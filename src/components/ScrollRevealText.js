@@ -4,7 +4,7 @@ import { useInView } from 'react-intersection-observer';
 function ScrollRevealText({ children }) {
   const [visible, setVisible] = useState(false);
   const { ref, inView } = useInView({
-    threshold: 0.5, // Adjust the threshold as needed
+    threshold: 0.2, 
   });
 
   useEffect(() => {

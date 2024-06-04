@@ -52,7 +52,6 @@ function Header() {
           </button>
         </div>
       </div>
-      {/* Responsive Mobile Menu */}
       <nav className={`md:hidden ${isDarkMode ? 'bg-gray-800' : 'bg-gray-200'} transition-all duration-500 ease-in-out ${isOpen ? 'h-auto' : 'h-0 overflow-hidden'}`}>
         <ul className={`flex flex-col ${isDarkMode ? 'text-white' : 'text-gray-800'}`}>
           <li className="py-2 mx-4"><a href="#about">About</a></li>

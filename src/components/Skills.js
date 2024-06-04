@@ -11,8 +11,7 @@ function Skills() {
     { name: 'React', level: '75%', icon: <FaReact /> },
     { name: 'PHP', level: '70%', icon: <FaPhp /> },
     { name: 'Laravel', level: '75%', icon: <FaLaravel /> },
-    { name: 'Vue', level: '60%', icon: <FaVuejs /> },
-    { name: 'WordPress', level: '90%', icon: <FaWordpress /> },
+    // { name: 'WordPress', level: '90%', icon: <FaWordpress /> },
     { name: 'SQL', level: '75%', icon: <FaDatabase /> },
   ];
 
