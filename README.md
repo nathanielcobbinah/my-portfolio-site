@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 Personal Portfolio Website
@@ -61,3 +62,7 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+=======
+# my-portfolio-site
+This is the personal portfolio of Nathaniel Cobbinah, built with React. It features sections including a hero banner, about me, skills, project showcase, and a contact form. The site also includes a scroll-to-top button for easy navigation. Explore my work and get in touch!
+>>>>>>> 4dac296d1b7407960855d98526bf8e45185ef766
