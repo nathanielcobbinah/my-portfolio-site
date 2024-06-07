@@ -9,7 +9,7 @@ function ProjectShowcase() {
       image: '/images/blog.png',
       description: 'Responsive blog with user authentication built using HTML, PHP and Tailwind CSS.',
       projectLink: '#', 
-      codeLink: 'https://github.com/nathanielcobbinah/Blog.git',
+      codeLink: 'https://github.com/nathanielcobbinah/blog.git',
     },
     
     {
@@ -24,7 +24,7 @@ function ProjectShowcase() {
       title: 'Word Scramble Game',
       image: '/images/word-scramble.png',
       description: 'Random word scramble game using JavaScript, HTML, and CSS with browser save feature.',
-      projectLink: '', 
+      projectLink: 'https://word-scramble-livid.vercel.app/', 
       codeLink: 'https://github.com/nathanielcobbinah/word-scramble.git',
     },
     
@@ -32,7 +32,7 @@ function ProjectShowcase() {
       title: 'Facebook UI',
       image: '/images/facebook.png',
       description: 'Responsive Facebook UI clone using HTML and CSS, responsive to all devices.',
-      projectLink: '', 
+      projectLink: 'https://facebook-ui-seven.vercel.app/', 
       codeLink: 'https://github.com/nathanielcobbinah/facebook-ui.git',
     },
     
@@ -41,7 +41,7 @@ function ProjectShowcase() {
       image: '/images/virtual-world.png',
       description: 'Virtual reality header and hero section with login and signup forms using HTML and CSS.',
       projectLink: '#', 
-      codeLink: '#',
+      codeLink: 'https://github.com/nathanielcobbinah/virtual-tour-homepage.git',
     },
     
   ];
