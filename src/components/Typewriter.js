@@ -21,3 +21,4 @@ function Typewriter({ text, speed }) {
 }
 
 export default Typewriter;
+ 

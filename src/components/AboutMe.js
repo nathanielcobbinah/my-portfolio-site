@@ -22,10 +22,10 @@ function AboutMe() {
 
   const handleDownloadResume = () => {
     // Replace 'your_resume.pdf' with the path to your resume PDF
-    const resumeUrl = '/path/to/your_resume.pdf';
+    const resumeUrl = '/documents/resume.pdf';
     const link = document.createElement('a');
     link.href = resumeUrl;
-    link.setAttribute('download', 'Nathaniel_de_Escade_Resume.pdf');
+    link.setAttribute('download', 'Nathaniel_Cobbinah_Resume.pdf');
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

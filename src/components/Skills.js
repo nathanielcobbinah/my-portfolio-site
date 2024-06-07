@@ -1,18 +1,19 @@
 import React from 'react';
-import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaDatabase, FaPhp, FaLaravel, FaVuejs, FaWordpress } from 'react-icons/fa';
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaDatabase, FaPhp, FaLaravel, FaVuejs, FaWordpress, FaCode } from 'react-icons/fa';
 import ScrollRevealText from './ScrollRevealText';
 
 function Skills() {
   // Define your skills data
   const skills = [
     { name: 'HTML', level: '90%', icon: <FaHtml5 /> },
-    { name: 'CSS', level: '85%', icon: <FaCss3Alt /> },
+    { name: 'CSS', level: '95%', icon: <FaCss3Alt /> },
     { name: 'JavaScript', level: '80%', icon: <FaJs /> },
     { name: 'React', level: '75%', icon: <FaReact /> },
     { name: 'PHP', level: '70%', icon: <FaPhp /> },
-    { name: 'Laravel', level: '75%', icon: <FaLaravel /> },
+    // { name: 'Laravel', level: '75%', icon: <FaLaravel /> },
     // { name: 'WordPress', level: '90%', icon: <FaWordpress /> },
     { name: 'SQL', level: '75%', icon: <FaDatabase /> },
+    { name: 'jQuery', level: '75%', icon: <FaCode /> },
   ];
 
   return (

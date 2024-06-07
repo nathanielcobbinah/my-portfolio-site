@@ -41,12 +41,12 @@ function Hero() {
               Contact Me
             </button>
             <div className="flex">
-              <a href="https://www.linkedin.com/in/nathanielcobbinah/" target="_blank" rel="noopener noreferrer" className="mr-4">
+              <a href="https://www.linkedin.com/in/nathaniel-cobbinah/" target="_blank" rel="noopener noreferrer" className="mr-4">
                 <FaLinkedin size={32} />
               </a>
-              <a href="https://twitter.com/natcobbinah" target="_blank" rel="noopener noreferrer" className="mr-4">
+              {/* <a href="https://twitter.com/natcobbinah" target="_blank" rel="noopener noreferrer" className="mr-4">
                 <FaTwitter size={32} />
-              </a>
+              </a> */}
               <a href="https://github.com/nathanielcobbinah" target="_blank" rel="noopener noreferrer">
                 <FaGithub size={32} />
               </a>
